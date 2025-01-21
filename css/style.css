@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    padding: 3px;
+    margin: 0 auto;
+    text-align: center;
+    color:red;
+}
+
+div{
+    width:35%;
+    margin: 10px auto;
+    text-align: center;
+}
+
+img{
+    max-width: 100%;
+}
