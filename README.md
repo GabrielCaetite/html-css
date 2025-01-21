@@ -1,2 +1,2 @@
 # html-css
-Link entre paginas
+Imagens como link entre páginas
